@@ -1,0 +1,5 @@
+#Install
+~~~
+mkdir ~/.config/rofi/
+
+~~~
